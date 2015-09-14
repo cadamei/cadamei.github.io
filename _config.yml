@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name: White Paper
 markdown: redcarpet
 pygments: true
@@ -11,17 +10,6 @@ disqus_shortname:
 # url: http://gotchacode.com
 #Comment out url when working locally to resolve base urls correctly
 #url:
-=======
-# Site settings
-title: Really Amateur Radio
-email: js@cadamei.net
-description: > # this means to ignore newlines until "baseurl:"
-  A roll of posts relating to anything from gardening to antenna theory, mostly amateur radio
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://cadamei.github.io" # the base hostname & protocol for your site
-twitter_username: cadamei
-github_username:  cadamei
->>>>>>> parent of 52dfaa7... changed name of site
 
 # Owner/author information
 owner:
