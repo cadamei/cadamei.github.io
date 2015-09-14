@@ -1,10 +1,10 @@
 name: White Paper
 markdown: redcarpet
 pygments: true
-url: cadamei.net
+url: http://vinitkumar.me/white-paper
 paginate: 8
-description:    My project flotsam
-intro: A roll of posts relating to anything from gardening to antenna theory, mostly amateur radio
+description:     Jekyll theme for Programmers
+intro: White Paper is a Jekyll theme most suited to be used on tech blogs that like their content to shine.
 logo:             logo.png
 disqus_shortname:
 # url: http://gotchacode.com
@@ -13,12 +13,12 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Johnathan Staverman
+  name:           <your-name-here>
   avatar:         <avatar-image-link>
-  email:          js@cadamei.net
+  email:          <your-email-address>
   # Social networking links used in footer. Update and remove as you like.
-  twitter:cadamei
-  github:cadamei
+  twitter:
+  github:
   stackexchange:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
