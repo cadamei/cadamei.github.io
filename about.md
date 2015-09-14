@@ -3,7 +3,7 @@ layout: default
 title: About Cadamei
 ---
 
-My name is Johnathan. I build antennas for fun. I roast, extract and drink coffee. I rarely take photos. I try to program.
+My name is Johnathan. I build antennas for fun. I roast, extract and drink coffee. I now rarely take photos. I try to program.
 
 If you want to tell me a secret use this: 0xd007df9b89b28cd1
 
