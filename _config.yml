@@ -17,8 +17,8 @@ owner:
   avatar:         <avatar-image-link>
   email:          js@cadamei.net
   # Social networking links used in footer. Update and remove as you like.
-  twitter: cadamei
-  github: cadamei
+  twitter:cadamei
+  github:cadamei
   stackexchange:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
