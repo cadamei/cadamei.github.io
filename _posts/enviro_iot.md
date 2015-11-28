@@ -4,5 +4,32 @@ title:  "Environmental IoT Device"
 date:   2015-11-28 13:30:21
 categories: electronics
 ---
+I've been interested in electronics and small useful devices for most of my life. Especially when I was a kid I thought the prospect of owning a device that did everything was silly so I prefferd buying something that had one function. The reasoning was that no one would make a device that did one thing badly. Obviously that was flawed. Today I'm still very interested in those small one use devices and modularity. In an attempt to better understand how IoT devices are made and how they connect to the world I've taken a pretty common concept and will be building it from modular electronics to create by very first IoT device.
 
-<script type="text/javascript" src="//www.google.com.au/trends/embed.js?hl=en-AU&q=/m/02vnd10,+iot&cmpt=q&tz=Etc/GMT-10&tz=Etc/GMT-10&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=500&h=330"></script>
+![IoT Trend]({{cadamei.net}}/media/images/201511_enviot/iot_trend.png)
+
+As the Queensland summer rolls in the number of small talk "How's the weather?" picks up and responses generally consist of something to the effect of "Bloody hot mate". I want to answer the question literally. "It's currently 32 degrees celsius and 90% humidity". Determined by looking at my phone that is connected to the local wireless and pulling environmental statistics from my Internet of Things device.
+
+TO build this device I want to know the following
+ - GPS accurate time
+ - Temperature
+ - Humidity
+ - Barometric pressure
+
+All in a self contained enclosure accessible over a wireless network.
+
+Regarding it's functionality I wanted it to be built to the following priorities
+ 1. Precision
+ 2. Reliability
+ 3. Effeciency
+ 4. Smallest size
+
+ I used a local electronics distributor called {% extlink Little Bird Electronics http://littlebirdelectronics.com %}. and purchased the following parts:
+  - Adafruit CC3000 WiFi Breakout
+  - SMA to uFL/u.FL/IPX/IPEX RF Adapter Cable
+  - SparkFun Barometric Pressure Sensor Breakout - BMP180
+  - Digital Temperature & humidity sensor (With Stainless Steel Probe)
+  - Antenna GPS 3V Magnetic Mount SMA
+  - Adafruit Ultimate GPS Breakout - 66 channel w/10 Hz updates [Version 3]
+
+  
