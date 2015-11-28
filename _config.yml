@@ -10,3 +10,6 @@ github_username:  cadamei
 
 # Build settings
 markdown: kramdown
+
+# Gems
+gems: [jekyll-test-plugin, jekyll-jsonify, jekyll-assets]
