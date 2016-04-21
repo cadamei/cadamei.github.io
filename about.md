@@ -10,7 +10,7 @@ Read about it here.
 
 If you want to tell me a secret use this: 0xd007df9b89b28cd1
 
-[PGP Key](public-keys.asc)
+[PGP Key](http://cadamei.net/public-keys.asc)
 
 
 
