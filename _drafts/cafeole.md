@@ -1,0 +1,8 @@
+---
+layout: post
+title: Good Morning England
+---
+We're in Cafe Ole eating a pastry and a coffee that tastes like coffee. Not the kind you go wow at but not the kind you don't drink either. It's cold outside but not enough to loudly exclaim "bloody hell it's cold!". We're going to take a bus trip around London to get an idea of the area.
+
+Here's where we're eating.
+![Cafe Ole](/media/image/201703London/cafeole.jpg) 
